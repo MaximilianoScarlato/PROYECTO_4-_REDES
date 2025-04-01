@@ -73,11 +73,8 @@ El sistema incluye las siguientes funcionalidades:
 
 ## 📂 **Estructura del proyecto**
 
-PROYECTO_4-_REDES
-├── proyecto_4_Redes.ipynb       # Notebook principal del proyecto
-├── datos_muestra.xlsx           # Archivo de datos de entrada (ejemplo)
-├── datos_limpios_preview.csv    # Archivo de datos limpios (salida)
-├── README.md                    # Documentación del proyecto
+![image](https://github.com/user-attachments/assets/751fb355-0f11-4ecc-bdca-7f701256cc41)
+
 
 ## 🌟 **Estado del proyecto**
 El proyecto está en desarrollo. Se han implementado las funcionalidades principales, pero aún hay áreas que requieren mejoras y optimización.  
