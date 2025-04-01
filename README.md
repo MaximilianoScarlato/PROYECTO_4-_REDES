@@ -55,7 +55,7 @@ El sistema incluye las siguientes funcionalidades:
 ### **1. Abrir el proyecto en Google Colab**
 1. Accede al archivo del proyecto en el repositorio de GitHub:  
    [PROYECTO_4-_REDES](https://github.com/MaximilianoScarlato/PROYECTO_4-_REDES.git)  
-2. Descarga el archivo `proyecto_4_Redes.ipynb` o ábrelo directamente en Google Colab.
+2. Descarga el archivo `Proyecto_4_Redes.ipynb`, con Archivo REDES 2014 o ábrelo directamente en Google Colab.
 
 ### **2. Subir el archivo de datos**
 1. Ejecuta la celda correspondiente para cargar el archivo Excel con los datos de muestreo.  
