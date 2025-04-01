@@ -1,7 +1,7 @@
 # **README: Análisis y Visualización de Parámetros Críticos en Agua Subterránea**
 
 ## 📌 **Índice**
-1. 📝 Sobre el Proyecto(#-sobre-el-proyecto)
+1. 📝 Sobre el Proyecto(-#-sobre-el-proyecto)
 2. ⚡ Características principales  
 3. 🔧 Posibles mejoras  
 4. 👨‍💻 Tecnologías utilizadas  
