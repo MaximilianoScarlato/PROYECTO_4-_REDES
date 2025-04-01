@@ -1,13 +1,13 @@
 # **README: Análisis y Visualización de Parámetros Críticos en Agua Subterránea**
 
-## 📌 **Índice**
-1. 📝 Sobre el Proyecto(-#-sobre-el-proyecto)
-2. ⚡ Características principales  
-3. 🔧 Posibles mejoras  
-4. 👨‍💻 Tecnologías utilizadas  
-5. ⚙ Instalación y uso en Google Colab  
-6. 📂 Estructura del proyecto  
-7. 🌟 Estado del proyecto  
+## 📌 Índice
+- [📝 Sobre el Proyecto](#-sobre-el-proyecto)
+- [⚡ Características principales](#-características-principales)
+- [🔧 Posibles mejoras](#-posibles-mejoras)
+- [👨‍💻 Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [⚙ Instalación y uso en Google Colab](#-instalación-y-uso-en-google-colab)
+- [📂 Estructura del proyecto](#-estructura-del-proyecto)
+- [🌟 Estado del proyecto](#-estado-del-proyecto)
 
 ---
 
@@ -72,8 +72,14 @@ El sistema incluye las siguientes funcionalidades:
 ---
 
 ## 📂 **Estructura del proyecto**
-El proyecto está en desarrollo. Se han implementado las funcionalidades principales, pero aún hay áreas que requieren mejoras y optimización.
+
+PROYECTO_4-_REDES
+├── proyecto_4_Redes.ipynb       # Notebook principal del proyecto
+├── datos_muestra.xlsx           # Archivo de datos de entrada (ejemplo)
+├── datos_limpios_preview.csv    # Archivo de datos limpios (salida)
+├── README.md                    # Documentación del proyecto
+
+## 🌟 **Estado del proyecto**
+El proyecto está en desarrollo. Se han implementado las funcionalidades principales, pero aún hay áreas que requieren mejoras y optimización.  
 
 Si este proyecto te resulta útil, ¡marca el repositorio con una estrella en GitHub! ⭐
-
-Este README está adaptado para trabajar en Google Colab, proporcionando instrucciones claras para ejecutar el análisis directamente desde el entorno. 😊
